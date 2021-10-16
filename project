@@ -1,0 +1,133 @@
+<html>
+    <head>
+        <title>
+            Last-project
+        </title>
+        
+        <style>
+            #topbar{
+                background-color: darkblue;
+                padding: 15px;
+                text-align: center;
+
+            }
+
+            .topbarlinks{
+                
+                font-weight: 600px;
+                padding: 15px;         
+                
+            }            
+            
+            .image-item{
+                width: 400px;
+                height: 300px;
+            }
+
+            .caption{
+                font-size: 24px;
+                margin-top: 8px;
+            }
+
+            #img-border{
+                width: 400px;
+                height: 350px;
+            }
+        </style>
+
+    </head>
+
+    <body style="margin: 0; background-color: lightcyan;">
+
+        <div id="topbar">
+            <span  class="topbarlinks"><a style="color: white;" href="/trip.html" >TRIPS</a></span>
+            <span class="topbarlinks"><a style="color: white;" href="/about.html">ABOUT</a></span>
+            <span  class="topbarlinks"><a style="color: white;" href="/contact.html">CONTACT</a></span>          
+        </div>
+
+        <img src="https://lavingotravels.com/wp-content/uploads/2016/02/sigiriya-sri-lanka.jpg" alt="Sigiriya" width="1349px" height="400px" style="margin-left: 0px; margin-right: 0px;">
+        
+        <table style="text-align: center; margin-left: auto;margin-right: auto;"  >
+            <h2 style="text-align: center;"><u>My Travel Diary-Sri Lanka</u></h2>
+            <tr>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Nine Arch Bridge" hr><img class="image-item" src="https://www.harimila.lk/wp-content/uploads/2020/09/Badulla-1.jpg" alt="Nine Arch Bridge" >
+                        <p class="caption">Nine Arch Bridge</p>
+                        </a>
+                    </div>
+        
+                </td>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Nuwara Eliya"><img class="image-item" src="https://srilankatravelgram.com/wp-content/uploads/2019/09/Nuwara-Eliya.jpg" alt="Nuwara Eliya" >
+                        <p class="caption">Nuwara Eliya</p>
+                        </a>
+                    </div>
+        
+                </td>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Matara"><img class="image-item" src="https://www.thingstodosrilanka.com/wp-content/uploads/2020/08/32889498_252974718783360_8127495055217786880_n-1-1024x765.jpg" alt=" Matara" >
+                        <p class="caption">Matara</p>
+                        </a>
+                    </div>
+        
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Mirissa"><img class="image-item" src="https://youimg1.tripcdn.com/target/100f0m000000dgep11B9C.jpg" alt="Mirissa" >
+                        <p class="caption">Mirissa</p>
+                        </a>
+                    </div>
+        
+                </td>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Yala National park"><img class="image-item" src="https://www.holidify.com/images/bgImages/YALA-NATIONAL-PARK.jpg" alt="Yala National Park" >
+                        <p class="caption">Yala National Park</p>
+                        </a>
+                    </div>
+        
+                </td>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Polonnarwa"><img class="image-item" src="https://www.srilankafoundation.org/wp-content/uploads/2018/09/polonnaruwa-vatadage.jpg" alt="Polonnaruwa" >
+                        <p class="caption">Polonnaruwa</p>
+                        </a>
+                    </div>
+        
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Peradeniya Botanical Garden"><img class="image-item" src="https://www.ministryofvillas.com/wp-content/uploads/2017/09/sri-lanka-kandy-royal-botanical-gardens.jpg" alt="Peradeniya Botanical Garden" >
+                        <p class="caption">Peradeniya Botanical Garden</p>
+                        </a>
+                    </div>
+        
+                </td>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Temple of the Tooth"><img class="image-item" src="https://www.jftours.com/uploads/772/conversions/preview.jpg" alt="Temple of the Tooth" >
+                        <p class="caption">Temple of the Tooth</p>
+                        </a>
+                    </div>
+        
+                </td>
+                <td style="padding-right: 8px; padding-left: 8px;padding-top: 8px;padding-bottom: 8px;">
+                    <div id="img-border" style="background-color: white;">
+                        <a href="trip.html#Colombo"><img class="image-item" src="https://capacityliveblobstorage.blob.core.windows.net/files/Colombo,%20Sri%20Lanka.jpg" alt="Colombo" >
+                        <p class="caption">Colombo</p>
+                        </a>
+                    </div>
+        
+                </td>
+            </tr>
+        </table>
+    </body>
+
+</html>
